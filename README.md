@@ -1,0 +1,1 @@
+# simulador-folha-2026
