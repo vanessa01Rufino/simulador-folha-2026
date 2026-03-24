@@ -16,6 +16,3 @@ O objetivo do trabalho foi aplicar conceitos fundamentais de desenvolvimento web
 - Cálculo de IRRF
 - Exibição do salário líquido
 - Mensagem de isenção de imposto
-
-##  Acesse o projeto
-(coloque aqui o link do GitHub Pages)
